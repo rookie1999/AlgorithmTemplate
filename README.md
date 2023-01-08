@@ -1,0 +1,2 @@
+# AlgorithmTemplate
+C++
